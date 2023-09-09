@@ -1,3 +1,13 @@
+"""
+Now, it is time to try to use tkinter....this can't go well.
+
+
+"""
+
+from tkinter import *
+from tkinter import ttk
+
+
 class Mortgage:
     
     def __init__(self, rent_amount, purchase_price, expenses):

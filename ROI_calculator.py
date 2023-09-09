@@ -1,4 +1,17 @@
 """
+# How to solve a problem:
+
+#     -Figure out wher the input and its type are
+#     -Set up a function
+#     -Figure out what the output and its type are
+#     -Gather your Knowledge
+#     -Gathers your contraints (Not Always Necessary)
+#     -Determine a Logical way to solve the problem
+#      -Write each step out in English
+#       -Write each step out in Python-esse (sudo-code)
+#       -Invoke and Test your function
+
+
 income minus expenses  
 
 annual net income = (monthly rent *12) - annual expenses
